@@ -1,8 +1,8 @@
 ##List of database benchmarks:
 
-|Databases Covered|Source|Benchmark|Independent|Date|
+| Databases Covered | Source | Benchmark | Independent | Date |
 | ------------- | ------------- | -----:| -------:|
-| Aerospike, Cassandra, MongoDB, Couchbase  | [Ultra High Performance NoSQL Benchmarking](http://www.benstopford.com/wp-content/uploads/2014/03/Ultra-High-Performance-NoSQL-Benchmarking.pdf)| YCSB |N| 2013|
+| Aerospike, Cassandra, MongoDB, Couchbase  | [Ultra High Performance NoSQL Benchmarking](http://www.benstopford.com/wp-content/uploads/2014/03/Ultra-High-Performance-NoSQL-Benchmarking.pdf)| YCSB | N | 2013|
 |Aerospike, Cassandra, MongoDB, Couchbase       | [NoSQL Failover Characteristics](http://www.benstopford.com/wp-content/uploads/2014/03/NoSQL-Failover.pdf)      |   YCSB |N | 2013|
 | HBase, Voldemort, Redis, VoltDB, MySQL | [Solving Big Data Challenges for Enterprise Application Performance Management](http://vldb.org/pvldb/vol5/p1724_tilmannrabl_vldb2012.pdf)      |    YCSB |Y | 2012|
 |Cassandra, HBase, MongoDB, Riak| [A Vendor Independent Comparison of NoSQL Databases](https://s3-eu-west-1.amazonaws.com/benstopford/nosql-comp.pdf)|YCSB|Y|2012|
