@@ -1,5 +1,5 @@
 ##List of database benchmarks:
-
+(please annotate and submit a pull request if you have others)
 
 | Databases Covered | Source | Benchmark | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
