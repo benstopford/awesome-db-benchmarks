@@ -4,10 +4,13 @@
 | Databases | Link | Type | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
 |Multiple Relational/Hadoop|[TPC industry benchmarks for OLTP, Analytics & Big Data](http://www.tpc.org/)|TPC|Y|Ongoing|
+|Cassandra, HBase, MongoDB, OrientDB, Redis|[](http://www.ronpub.com/publications/OJDB-v1i2n02_Abramova.pdf)|YCSB|Y|2014|
+|MongoDB, ElasticSearch, Redis, OrientDB|[Performance Evaluation of NoSQL Systems Using YCSB in a resource Austere Environment](http://research.ijais.org/volume7/number8/ijais14-451229.pdf)|YCSB|Y|2014|
 |LevelDB,SQLite,Keyoto,OpenLdap, BDB|[Sysmas DB Benchmarks](http://symas.com/mdb/microbench/)|YCSB |N|2014|
 |Citrus(PostgresColumar), MonetDB|[Citus Data vs. MonetDB TPC-H Shootout](https://www.monetdb.org/content/citusdb-postgresql-column-store-vs-monetdb-tpc-h-shootout)|TPC-H |N|2014|
 |MySQL, Postgres,UndisclosedBigVendor1, UndisclosedBigVendor2|[Multi-Metric comparision of Relational Databases](http://oltpbenchmark.com/wiki/index.php?title=Experiments)|10 different |Y|2014|
-| Aerospike, Cassandra, MongoDB, Couchbase |[Ultra High Performance NoSQL Benchmarking](http://www.benstopford.com/wp-content/uploads/2014/03/Ultra-High-Performance-NoSQL-Benchmarking.pdf)|YCSB|N|2013|
+| Aerospike, Cassandra, MongoDB, Couchbase |[Ultra High Performance NoSQL Benchmarking](http://www.aerospike.com/wp-content/uploads/2013/01/Ultra-High-Performance-NoSQL-Benchmarking.pdf)|YCSB|N|2013|
+|Cassandra, HBase on EC2|[Benchmarking Scalability and Elasticity of Distributed Database Systems](http://www.vldb.org/pvldb/vol7/p1219-klems.pdf)|YCSB|Y|2013|
 | Cassandra, HBase, MongoDB|[Benchmarking Top NoSQL Databases](https://www.datastax.com/wp-content/uploads/2013/02/WP-Benchmarking-Top-NoSQL-Databases.pdf)|YCSB|N|2013|
 |Aerospike, Cassandra, MongoDB, Couchbase | [NoSQL Failover Characteristics](http://www.benstopford.com/wp-content/uploads/2014/03/NoSQL-Failover.pdf)      |   YCSB |N | 2013|
 |MongoDb, MySQL|[RDBMS vs NoSQL: Performance and Scaling Comparison](http://www.epcc.ed.ac.uk/sites/default/files/Dissertations/2012-2013/RDBMS%20vs%20NoSQL%20-%20Performance%20and%20Scaling%20Comparison.pdf)|YCSB |Y|2013
