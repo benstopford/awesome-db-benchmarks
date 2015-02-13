@@ -7,6 +7,7 @@
 |Citrus(PostgresColumar), MonetDB|[Citus Data vs. MonetDB TPC-H Shootout](https://www.monetdb.org/content/citusdb-postgresql-column-store-vs-monetdb-tpc-h-shootout)|TPC-H |N|2014|
 |MySQL, Postgres,UndisclosedBigVendor1, UndisclosedBigVendor2|[Multi-Metric comparision of Relational Databases](http://oltpbenchmark.com/wiki/index.php?title=Experiments)|10 different |Y|2014|
 | Aerospike, Cassandra, MongoDB, Couchbase |[Ultra High Performance NoSQL Benchmarking](http://www.benstopford.com/wp-content/uploads/2014/03/Ultra-High-Performance-NoSQL-Benchmarking.pdf)|YCSB|N|2013|
+| Cassandra, HBase, MongoDB|[Benchmarking Top NoSQL Databases](https://www.datastax.com/wp-content/uploads/2013/02/WP-Benchmarking-Top-NoSQL-Databases.pdf)|YCSB|N|2013|
 |Aerospike, Cassandra, MongoDB, Couchbase | [NoSQL Failover Characteristics](http://www.benstopford.com/wp-content/uploads/2014/03/NoSQL-Failover.pdf)      |   YCSB |N | 2013|
 |MongoDb, MySQL|[RDBMS vs NoSQL: Performance and Scaling Comparison](http://www.epcc.ed.ac.uk/sites/default/files/Dissertations/2012-2013/RDBMS%20vs%20NoSQL%20-%20Performance%20and%20Scaling%20Comparison.pdf)|YCSB |Y|2013
 |Cassandra|[Evalua&on	of NoSQL and	Array Databases	for	Sciencific Applications](http://datasys.cs.iit.edu/events/DataCloud2013/Lavanya_NoSQL.pdf)|YCSB |Y|2013|
