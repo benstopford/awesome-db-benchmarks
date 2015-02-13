@@ -4,10 +4,12 @@
 | Databases | Link | Type | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
 |Multiple Relational/Hadoop|[TPC industry benchmarks for OLTP, Analytics & Big Data](http://www.tpc.org/)|TPC|Y|Ongoing|
-|Cassandra, HBase, MongoDB, OrientDB, Redis|[](http://www.ronpub.com/publications/OJDB-v1i2n02_Abramova.pdf)|YCSB|Y|2014|
+|Cassandra, HBase, MongoDB, OrientDB, Redis|[Which NoSQL Database? A Performance Overview](http://www.ronpub.com/publications/OJDB-v1i2n02_Abramova.pdf)|YCSB|Y|2014|
 |MongoDB, ElasticSearch, Redis, OrientDB|[Performance Evaluation of NoSQL Systems Using YCSB in a resource Austere Environment](http://research.ijais.org/volume7/number8/ijais14-451229.pdf)|YCSB|Y|2014|
 |LevelDB,SQLite,Keyoto,OpenLdap, BDB|[Sysmas DB Benchmarks](http://symas.com/mdb/microbench/)|YCSB |N|2014|
 |Citrus(PostgresColumar), MonetDB|[Citus Data vs. MonetDB TPC-H Shootout](https://www.monetdb.org/content/citusdb-postgresql-column-store-vs-monetdb-tpc-h-shootout)|TPC-H |N|2014|
+|Hana, DB2, Postgres, Oracle|[Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?](https://websci.informatik.uni-freiburg.de/publications/EDBT2014-Benchmarking-Bitemporal-Database-Systems.pdf)|Y|Custom|2014|
+|Hadoop, Spark, DataMPI|[Performance Benefits of DataMPI:A Case Study with BigDataBench](http://arxiv.org/pdf/1403.3480.pdf)|N|BigDataBench|2014|
 |MySQL, Postgres,UndisclosedBigVendor1, UndisclosedBigVendor2|[Multi-Metric comparision of Relational Databases](http://oltpbenchmark.com/wiki/index.php?title=Experiments)|10 different |Y|2014|
 | Aerospike, Cassandra, MongoDB, Couchbase |[Ultra High Performance NoSQL Benchmarking](http://www.aerospike.com/wp-content/uploads/2013/01/Ultra-High-Performance-NoSQL-Benchmarking.pdf)|YCSB|N|2013|
 |Cassandra, HBase on EC2|[Benchmarking Scalability and Elasticity of Distributed Database Systems](http://www.vldb.org/pvldb/vol7/p1219-klems.pdf)|YCSB|Y|2013|
@@ -25,3 +27,16 @@
 |HBase, Accumulo|[YCSB++](http://www.pdl.cmu.edu/PDL-FTP/Storage/socc2011.pdf)|YCSB++ |Y|2011|
 |Hadoop, Vertica, SqlServer?|[A Comparison of Approaches to Large-Scale Data Analysis](http://database.cs.brown.edu/sigmod09/benchmarks-sigmod09.pdf)|Custom|Y|2009|
 ||[]()|YCSB|Y|2013|
+
+
+
+Benchmark frameworks:
+
+http://www.tpc.org/
+
+https://github.com/intel-hadoop/Big-Bench
+
+https://github.com/brianfrankcooper/YCSB/
+
+https://amplab.cs.berkeley.edu/benchmark/
+
