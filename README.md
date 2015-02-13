@@ -9,7 +9,7 @@
 |Cassandra, HBase, MongoDB, Riak| [A Vendor Independent Comparison of NoSQL Databases](https://s3-eu-west-1.amazonaws.com/benstopford/nosql-comp.pdf)|YCSB|Y|2012|
 |MongoDb, MySQL|[RDBMS vs NoSQL: Performance and Scaling Comparison](http://www.epcc.ed.ac.uk/sites/default/files/Dissertations/2012-2013/RDBMS%20vs%20NoSQL%20-%20Performance%20and%20Scaling%20Comparison.pdf)|YCSB |Y|2013
 |LevelDB, BangDb, BDB|[Performance Data For LevelDB, Berkley DB And BangDB For Random Operations](http://highscalability.com/blog/2012/11/29/performance-data-for-leveldb-berkley-db-and-bangdb-for-rando.html)|YCSB |N|2012|
-|Cassandra|[Resource Provisioning for NoSQL Datastores](http://www.globule.org/publi/RPND_master2011.pd1)|Y|2011|
+|Cassandra|[Resource Provisioning for NoSQL Datastores](http://www.globule.org/publi/RPND_master2011.pdf)|YCSB|Y|2011|
 |Couchbase|[Couchbase Server 2.0 performance on HP ProLiant DL380p Gen8 Server](http://h20195.www2.hp.com/V2/GetPDF.aspx%2F4AA4-6203ENW.pdf)|YCSB |N|2012|
 |Cassandra|[Evalua&on	of NoSQL and	Array Databases	for	Sciencific Applications](http://datasys.cs.iit.edu/events/DataCloud2013/Lavanya_NoSQL.pdf)|YCSB |Y|2013|
 |Cassandra|[An Evaluation of Cassandra for Hadoop](http://www.cs.binghamton.edu/~mgovinda/papers/dede-ieee-cloud-13.pdf)|YCSB |Y|2013|
