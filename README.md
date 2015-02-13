@@ -1,4 +1,4 @@
-##List of database benchmarks:
+##List of database (NoSQL, Hadoop, Relationa) benchmarks:
 (please annotate and submit a pull request if you have others)
 
 | Databases | Link | Type | Independent | Date |
