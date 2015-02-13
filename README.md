@@ -8,8 +8,8 @@
 |MongoDB, ElasticSearch, Redis, OrientDB|[Performance Evaluation of NoSQL Systems Using YCSB in a resource Austere Environment](http://research.ijais.org/volume7/number8/ijais14-451229.pdf)|YCSB|Y|2014|
 |LevelDB,SQLite,Keyoto,OpenLdap, BDB|[Sysmas DB Benchmarks](http://symas.com/mdb/microbench/)|YCSB |N|2014|
 |Citrus(PostgresColumar), MonetDB|[Citus Data vs. MonetDB TPC-H Shootout](https://www.monetdb.org/content/citusdb-postgresql-column-store-vs-monetdb-tpc-h-shootout)|TPC-H |N|2014|
-|Hana, DB2, Postgres, Oracle|[Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?](https://websci.informatik.uni-freiburg.de/publications/EDBT2014-Benchmarking-Bitemporal-Database-Systems.pdf)|Y|Custom|2014|
-|Hadoop, Spark, DataMPI|[Performance Benefits of DataMPI:A Case Study with BigDataBench](http://arxiv.org/pdf/1403.3480.pdf)|N|BigDataBench|2014|
+|Hana, DB2, Postgres, Oracle|[Benchmarking Bitemporal Database Systems: Ready for the Future or Stuck in the Past?](https://websci.informatik.uni-freiburg.de/publications/EDBT2014-Benchmarking-Bitemporal-Database-Systems.pdf)|Custom|Y|2014|
+|Hadoop, Spark, DataMPI|[Performance Benefits of DataMPI:A Case Study with BigDataBench](http://arxiv.org/pdf/1403.3480.pdf)|BigDataBench|N|2014|
 |MySQL, Postgres,UndisclosedBigVendor1, UndisclosedBigVendor2|[Multi-Metric comparision of Relational Databases](http://oltpbenchmark.com/wiki/index.php?title=Experiments)|10 different |Y|2014|
 | Aerospike, Cassandra, MongoDB, Couchbase |[Ultra High Performance NoSQL Benchmarking](http://www.aerospike.com/wp-content/uploads/2013/01/Ultra-High-Performance-NoSQL-Benchmarking.pdf)|YCSB|N|2013|
 |Cassandra, HBase on EC2|[Benchmarking Scalability and Elasticity of Distributed Database Systems](http://www.vldb.org/pvldb/vol7/p1219-klems.pdf)|YCSB|Y|2013|
