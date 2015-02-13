@@ -13,7 +13,6 @@
 |Cassandra|[An Evaluation of Cassandra for Hadoop](http://www.cs.binghamton.edu/~mgovinda/papers/dede-ieee-cloud-13.pdf)|YCSB |Y|2013|
 | HBase, Voldemort, Redis, VoltDB, MySQL | [Solving Big Data Challenges for Enterprise Application Performance Management](http://vldb.org/pvldb/vol5/p1724_tilmannrabl_vldb2012.pdf)      |    YCSB |Y | 2012|
 |Cassandra, HBase, MongoDB, Riak| [A Vendor Independent Comparison of NoSQL Databases](https://s3-eu-west-1.amazonaws.com/benstopford/nosql-comp.pdf)|YCSB|Y|2012|
-
 |LevelDB, BangDb, BDB|[Performance Data For LevelDB, Berkley DB And BangDB For Random Operations](http://highscalability.com/blog/2012/11/29/performance-data-for-leveldb-berkley-db-and-bangdb-for-rando.html)|YCSB |N|2012|
 |Couchbase|[Couchbase Server 2.0 performance on HP ProLiant DL380p Gen8 Server](http://h20195.www2.hp.com/V2/GetPDF.aspx%2F4AA4-6203ENW.pdf)|YCSB |N|2012|
 |Cassandra|[Resource Provisioning for NoSQL Datastores](http://www.globule.org/publi/RPND_master2011.pdf)|YCSB|Y|2011|
