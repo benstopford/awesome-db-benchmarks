@@ -3,6 +3,7 @@
 
 | Databases | Link | Type | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
+|Redshift, Hive, Shark, Imapala, Tez|[Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)|BDB|Y|2014|
 |LevelDB, RocksDB, HyperLevelDB, LMDB, InfluxDB|[Benchmarking LevelDB vs. RocksDB vs. HyperLevelDB vs. LMDB Performance for InfluxDB](http://influxdb.com/blog/2014/06/20/leveldb_vs_rocksdb_vs_hyperleveldb_vs_lmdb_performance.html)|YCSB|N|2014|
 |Multiple Relational/Hadoop|[TPC industry benchmarks for OLTP, Analytics & Big Data](http://www.tpc.org/)|TPC|Y|Ongoing|
 |Cassandra, HBase, MongoDB, OrientDB, Redis|[Which NoSQL Database? A Performance Overview](http://www.ronpub.com/publications/OJDB-v1i2n02_Abramova.pdf)|YCSB|Y|2014|
