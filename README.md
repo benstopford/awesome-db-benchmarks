@@ -3,7 +3,8 @@
 
 | Databases | Link | Type | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
-|Cassandra, MongoDB, Riak| [Application-Specific Evaluation of NoSQL Databases] (https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=448171)|YCSB with customized workloads|Y|2015||SequoiaDB, Cassandra, MongoDB|[NoSQL Performance Test](http://www.msrg.org/publications/pdf_files/2014/NoSQLBenchmark-NoSQL_Performance_Test_-_In-Me.pdf)|YCSB|Y|2014|
+|Cassandra, MongoDB, Riak| [Application-Specific Evaluation of NoSQL Databases] (https://resources.sei.cmu.edu/library/asset-view.cfm?assetID=448171)|YCSB with customized workloads|Y|2015|
+|SequoiaDB, Cassandra, MongoDB|[NoSQL Performance Test](http://www.msrg.org/publications/pdf_files/2014/NoSQLBenchmark-NoSQL_Performance_Test_-_In-Me.pdf)|YCSB|Y|2014|
 |Redshift, Hive, Shark, Imapala, Tez|[Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)|BDB|Y|2014|
 |LevelDB, RocksDB, HyperLevelDB, LMDB, InfluxDB|[Benchmarking LevelDB vs. RocksDB vs. HyperLevelDB vs. LMDB Performance for InfluxDB](http://influxdb.com/blog/2014/06/20/leveldb_vs_rocksdb_vs_hyperleveldb_vs_lmdb_performance.html)|YCSB|N|2014|
 |Multiple Relational/Hadoop|[TPC industry benchmarks for OLTP, Analytics & Big Data](http://www.tpc.org/)|TPC|Y|Ongoing|
