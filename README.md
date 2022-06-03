@@ -3,6 +3,7 @@
 
 | Databases | Link | Type | Independent | Date |
 | -------------     | ------ | ---------:| -----------:| ---- |
+|MySQL, Clickhouse, Elasticsearch, Manticore Search|[Fair db benchmarks](https://db-benchmarks.com/)|Custom|Y|2022|
 |SequoiaDB, Cassandra, MongoDB|[NoSQL Performance Test](http://www.msrg.org/publications/pdf_files/2014/NoSQLBenchmark-NoSQL_Performance_Test_-_In-Me.pdf)|YCSB|Y|2014|
 |Redshift, Hive, Shark, Imapala, Tez|[Big Data Benchmark](https://amplab.cs.berkeley.edu/benchmark/)|BDB|Y|2014|
 |LevelDB, RocksDB, HyperLevelDB, LMDB, InfluxDB|[Benchmarking LevelDB vs. RocksDB vs. HyperLevelDB vs. LMDB Performance for InfluxDB](http://influxdb.com/blog/2014/06/20/leveldb_vs_rocksdb_vs_hyperleveldb_vs_lmdb_performance.html)|YCSB|N|2014|
@@ -42,4 +43,6 @@ https://github.com/intel-hadoop/Big-Bench
 https://github.com/brianfrankcooper/YCSB/
 
 https://amplab.cs.berkeley.edu/benchmark/
+
+https://github.com/db-benchmarks/db-benchmarks
 
