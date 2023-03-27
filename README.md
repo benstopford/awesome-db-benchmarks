@@ -30,7 +30,8 @@
 |HBase, Accumulo|[YCSB++](http://www.pdl.cmu.edu/PDL-FTP/Storage/socc2011.pdf)|YCSB++ |Y|2011|
 |Hadoop, Vertica, SqlServer?|[A Comparison of Approaches to Large-Scale Data Analysis](http://database.cs.brown.edu/sigmod09/benchmarks-sigmod09.pdf)|Custom|Y|2009|
 ||[]()|YCSB|Y|2013|
-
+|Polybase|[An open-source decentralized alternative to Firebase, Supabase, etc that understands tokens, wallets & ZK](https://framerusercontent.com/modules/assets/GRv4t0d6jQOJbIO7ZOFgonnXqM~f7GLGr1YpwfK85uVr8su7Mxe_3b6VkIZW94sRev8jj4.pdf)|Custom|Y|2022|
+||[]()|YCSB|Y|2013|
 
 
 Benchmark frameworks:
